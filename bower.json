@@ -1,0 +1,30 @@
+{
+  "name": "boilerplate-react",
+  "description": "",
+  "main": "bin/www",
+  "authors": [
+    "Sagar Patke <sagarpatke@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "express"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^0.14.8",
+    "babel": "*",
+    "jquery": "^2.2.2"
+  }
+}
